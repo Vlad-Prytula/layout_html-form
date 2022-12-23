@@ -1,1 +1,9 @@
 /* styles go here */
+.fieldset_type {
+  margin-bottom: 20px;
+}
+
+.input_type {
+  display: block;
+  margin-top: 10px;
+}
